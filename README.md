@@ -3,6 +3,11 @@
 > Today I Learned
 A collection of software engineering / finance tips that I learn every day.
 ---
+### etc
+
+- [00_unsolicited_advice](etc/00_unsolicited_advice.md)
+- [68_unsolicited_advice](etc/68_unsolicited_advice.md)
+
 ### finance
 
 - [Test](finance/test.md)
