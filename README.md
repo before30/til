@@ -12,9 +12,3 @@ A collection of software engineering / finance tips that I learn every day.
 
 - [Test](finance/test.md)
 
-### test
-
-- [Test2](test/test2.md)
-- [Test3](test/test3.md)
-- [Test](test/test.md)
-
