@@ -1,3 +1,4 @@
+[![Generate README](https://github.com/before30/til/actions/workflows/generate-readme.yml/badge.svg)](https://github.com/before30/til/actions/workflows/generate-readme.yml)
 # TIL
 > Today I Learned
 A collection of software engineering / finance tips that I learn every day.
